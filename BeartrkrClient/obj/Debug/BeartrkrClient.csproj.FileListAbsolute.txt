@@ -1,0 +1,16 @@
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\BeartrkrClient.exe.config
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\BeartrkrClient.exe
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\BeartrkrClient.pdb
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.csprojResolveAssemblyReference.cache
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.Form1.resources
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.Properties.Resources.resources
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.csproj.GenerateResource.Cache
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.exe
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.pdb
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\RestSharp.dll
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\RestSharp.xml
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\SpotifyAPI.dll
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\bin\Debug\SpotifyAPI.xml
+C:\Users\justin\Dropbox\Beartrkr\BeartrkrClient\BeartrkrClient\obj\Debug\BeartrkrClient.frmAbout.resources

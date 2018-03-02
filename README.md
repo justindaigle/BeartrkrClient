@@ -1,1 +1,2 @@
-# BeartrkrClient
+## BeartrkrClient
+BeartrkrClient, the official Windows client for Beartrkr ([https://beartrkr.com](http://beartrkr.com)). Designed to be as minimalistic as possible, you shouldn't even notice it's there. Kinda like this here readme.
